@@ -21,6 +21,9 @@ const Navbar = () => {
           <button className="btn-buy">
             <BsCart4 /> Buy Smiski
           </button>
+          <button className="btn-buy-sm">
+            <BsCart4 />
+          </button>
         </a>
       </div>
     </nav>
