@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/dape-smiski/static/css/main.619dd615.css",
+    "main.js": "/dape-smiski/static/js/main.d0241dd7.js",
+    "static/js/208.cde89fc2.chunk.js": "/dape-smiski/static/js/208.cde89fc2.chunk.js",
+    "static/js/293.c2168a52.chunk.js": "/dape-smiski/static/js/293.c2168a52.chunk.js",
+    "static/js/917.4fd48115.chunk.js": "/dape-smiski/static/js/917.4fd48115.chunk.js",
+    "static/js/516.6815c822.chunk.js": "/dape-smiski/static/js/516.6815c822.chunk.js",
+    "static/js/519.9def9ea6.chunk.js": "/dape-smiski/static/js/519.9def9ea6.chunk.js",
+    "static/js/946.198d3453.chunk.js": "/dape-smiski/static/js/946.198d3453.chunk.js",
+    "static/js/160.824ebb1a.chunk.js": "/dape-smiski/static/js/160.824ebb1a.chunk.js",
+    "static/js/23.a0a51dfa.chunk.js": "/dape-smiski/static/js/23.a0a51dfa.chunk.js",
+    "static/media/top_logo.png": "/dape-smiski/static/media/top_logo.e475ad2d16ddcc34569e.png",
+    "index.html": "/dape-smiski/index.html",
+    "main.619dd615.css.map": "/dape-smiski/static/css/main.619dd615.css.map",
+    "main.d0241dd7.js.map": "/dape-smiski/static/js/main.d0241dd7.js.map",
+    "208.cde89fc2.chunk.js.map": "/dape-smiski/static/js/208.cde89fc2.chunk.js.map",
+    "293.c2168a52.chunk.js.map": "/dape-smiski/static/js/293.c2168a52.chunk.js.map",
+    "917.4fd48115.chunk.js.map": "/dape-smiski/static/js/917.4fd48115.chunk.js.map",
+    "516.6815c822.chunk.js.map": "/dape-smiski/static/js/516.6815c822.chunk.js.map",
+    "519.9def9ea6.chunk.js.map": "/dape-smiski/static/js/519.9def9ea6.chunk.js.map",
+    "946.198d3453.chunk.js.map": "/dape-smiski/static/js/946.198d3453.chunk.js.map",
+    "160.824ebb1a.chunk.js.map": "/dape-smiski/static/js/160.824ebb1a.chunk.js.map",
+    "23.a0a51dfa.chunk.js.map": "/dape-smiski/static/js/23.a0a51dfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.619dd615.css",
+    "static/js/main.d0241dd7.js"
+  ]
+}
