@@ -1,4 +1,4 @@
-import React, {useEffect} from "react";
+import React from "react";
 import Spline from "@splinetool/react-spline";
 import "./header.css";
 

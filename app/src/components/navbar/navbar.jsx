@@ -1,4 +1,4 @@
-import React, {useEffect} from "react";
+import React from "react";
 import smol from "../../assets/icon01-1.png";
 import { BsCart4 } from "react-icons/bs";
 import "./navbar.css";
