@@ -45,3 +45,16 @@ footer {
 .footer__links {
   color: var(--color-main);
 }
+
+
+@media screen and (max-width: 500px) {
+
+  footer {
+    height: auto;
+    flex-direction: column-reverse;
+    padding: 3rem 0;
+    justify-content: center;
+    gap: 3rem;
+  }
+  
+}
