@@ -1,5 +1,5 @@
 nav {
-  background: #57825b;
+  background: var(--color-main);
   width: max-content;
   display: block;
   padding: 0.7rem 1.7rem;
@@ -27,17 +27,17 @@ nav {
 }
 
 .nav__links:hover {
-  color: #fbf304;
+  color: var(--color-secondary);
 }
 
 /* CSS */
 .btn-buy {
-  background-color: #dad66b;
+  background-color: var(--color-secondary-light);
   border: solid transparent;
   border-radius: 16px;
   border-width: 0 0 4px;
   box-sizing: border-box;
-  color: #57825b;
+  color: var(--color-main);
   cursor: pointer;
   display: inline-block;
   font-family: din-round, sans-serif;
@@ -62,7 +62,7 @@ nav {
 
 .btn-buy:after {
   background-clip: padding-box;
-  background-color: #fbf304;
+  background-color: var(--color-secondary);
   border: solid transparent;
   border-radius: 16px;
   border-width: 0 0 4px;

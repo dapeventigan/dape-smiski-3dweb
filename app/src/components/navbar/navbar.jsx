@@ -8,16 +8,16 @@ const Navbar = () => {
     <nav>
       <div className="nav__contents">
         <img src={smol} alt="" />
-        <a className="nav__links" href="">
+        <a className="nav__links" href="https://smiski.com/e/smiski/" target="_blank" rel="noreferrer">
           SMISKI
         </a>
-        <a className="nav__links" href="">
+        <a className="nav__links" href="https://smiski.com/e/update/" target="_blank" rel="noreferrer">
           NEWS
         </a>
-        <a className="nav__links" href="">
+        <a className="nav__links" href="https://smiski.com/e/products/" target="_blank" rel="noreferrer">
           PRODUCTS
         </a>
-        <a className="nav__links" href="">
+        <a className="nav__links" href="https://smiski.com/e/wheretobuy/" target="_blank" rel="noreferrer">
           <button className="btn-buy">
             <BsCart4 /> Buy Smiski
           </button>

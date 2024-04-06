@@ -12,6 +12,11 @@
 }
 
 :root {
+  /* COLORS */
+  --color-bg: #6ab235;
+  --color-main: #57825b;
+  --color-secondary: #fbf304;
+  --color-secondary-light: #dad66b;
   /* TRANSITION */
   --transition: all 300ms ease;
 }
